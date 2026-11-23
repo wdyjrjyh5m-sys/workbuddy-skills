@@ -1,2 +1,23 @@
-# workbuddy-skills
-自研的 WorkBuddy Skill 与插件作品集
+# WorkBuddy Skills & 插件作品集
+
+自研的 WorkBuddy Skill、插件与脚本集合。公开仓库，供他人参考与复用。
+
+## 已收录
+
+（待补充——目前仓库为初始化状态）
+
+## 目录规范
+
+每个 Skill 一个独立子目录，包含：
+
+```
+<skill-name>/
+├── SKILL.md          # 技能说明与使用方式
+├── scripts/          # 可执行脚本
+└── README.md         # 可选：安装与示例
+```
+
+## 使用边界
+
+- 仅收录通用、可公开的工具，不含任何客户资料、公司业务数据或密钥。
+- 涉及矿山设备业务的脚本一律放 `mining-tools`（私有仓库）。
